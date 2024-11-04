@@ -1,0 +1,838 @@
+2024-27-10 21:13:24   INFO [signUpTest.SignUpTest] : Browser was opened
+2024-27-10 21:13:28   INFO [pages.LoginPage] : Home page is opened
+2024-27-10 21:13:33   INFO [pages.SignUpModal] : 'Madin' was inputted into 'Username:
+2024-27-10 21:13:34   INFO [pages.SignUpModal] : 'Admin' was inputted into 'Password:
+2024-27-10 21:13:37  ERROR [pages.SignUpModal] : Can not work with elementorg.openqa.selenium.NoSuchElementException: Unable to find element with locator By.xpath: //button[@onclick="register()"]
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: driver.version: RemoteWebDriver
+2024-27-10 21:13:37   INFO [signUpTest.SignUpTest] : Browser was closed
+2024-27-10 21:19:16   INFO [signUpTest.SignUpTest] : Browser was opened
+2024-27-10 21:19:19   INFO [pages.LoginPage] : Home page is opened
+2024-27-10 21:19:24   INFO [pages.SignUpModal] : 'Madin' was inputted into 'Username:
+2024-27-10 21:19:24   INFO [pages.SignUpModal] : 'Admin' was inputted into 'Password:
+2024-27-10 21:19:25   INFO [pages.SignUpModal] : 'Sign up was clicked'
+2024-27-10 21:19:25   INFO [signUpTest.SignUpTest] : Browser was closed
+2024-27-10 21:26:07   INFO [signUpTest.SignUpTest] : Browser was opened
+2024-27-10 21:26:09   INFO [pages.LoginPage] : Home page is opened
+2024-27-10 21:26:12   INFO [pages.SignUpModal] : Sign Up modal is opened
+2024-27-10 21:26:14   INFO [pages.SignUpModal] : 'Madin' was inputted into 'Username:
+2024-27-10 21:26:15   INFO [pages.SignUpModal] : 'Admin' was inputted into 'Password:
+2024-27-10 21:26:15   INFO [pages.SignUpModal] : 'Sign up was clicked'
+2024-27-10 21:26:16   INFO [signUpTest.SignUpTest] : Browser was closed
+2024-27-10 21:46:49   INFO [signUpTest.SignUpTest] : Browser was opened
+2024-27-10 21:46:53   INFO [pages.LoginPage] : Home page is opened
+2024-27-10 21:46:56   INFO [pages.SignUpModal] : Sign Up modal is opened
+2024-27-10 21:47:00   INFO [pages.SignUpModal] : 'Madin' was inputted into 'Username:
+2024-27-10 21:47:04   INFO [pages.SignUpModal] : 'Admin' was inputted into 'Password:
+2024-27-10 21:47:04   INFO [pages.SignUpModal] : 'Sign up was clicked'
+2024-27-10 21:47:04   INFO [signUpTest.SignUpTest] : Browser was closed
+2024-27-10 21:51:38   INFO [signUpTest.SignUpTest] : Browser was opened
+2024-27-10 21:51:41   INFO [pages.LoginPage] : Home page is opened
+2024-27-10 21:51:45   INFO [pages.SignUpModal] : Sign Up modal is opened
+2024-27-10 21:51:48   INFO [pages.SignUpModal] : 'Madin' was inputted into 'Username:
+2024-27-10 21:51:49   INFO [pages.SignUpModal] : 'Admin' was inputted into 'Password:
+2024-27-10 21:51:51   INFO [pages.SignUpModal] : 'Sign up was clicked'
+2024-27-10 21:51:51   INFO [signUpTest.SignUpTest] : Browser was closed
+2024-27-10 22:37:39   INFO [loginTest.LoginTest] : Browser was opened
+2024-27-10 22:37:41   INFO [pages.LoginPage] : Home page is opened
+2024-27-10 22:37:49  ERROR [pages.LogInModal] : Can not work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=130.0.6723.70)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f54e30ff6b9050da9cd8a6a02acb7b3c, clearElement {id=f.29577F8F5DAB698B191FFF1F1BE43E39.d.27B5747F3B894121CC465344DBA0CFFD.e.22}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56747}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56747/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (f54e30ff6b9050da9cd8a6a02acb7b3c)] -> xpath: //input[@id="sign-password"]]
+Session ID: f54e30ff6b9050da9cd8a6a02acb7b3c
+2024-27-10 22:37:49   INFO [loginTest.LoginTest] : Browser was closed
+2024-27-10 22:38:38   INFO [loginTest.LoginTest] : Browser was opened
+2024-27-10 22:38:40   INFO [pages.LoginPage] : Home page is opened
+2024-27-10 22:38:48  ERROR [pages.LogInModal] : Can not work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=130.0.6723.70)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e151f8698d33bf7b93244556b4b939c3, clearElement {id=f.4F046040EDE2D372F06FF2EC21C09CB0.d.1FBC69432B6017099A46A66B62AAD893.e.22}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57013}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57013/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (e151f8698d33bf7b93244556b4b939c3)] -> xpath: //input[@id="sign-password"]]
+Session ID: e151f8698d33bf7b93244556b4b939c3
+2024-27-10 22:38:48   INFO [loginTest.LoginTest] : Browser was closed
+2024-27-10 23:03:40   INFO [signUpTest.SignUpTest] : Browser was opened
+2024-27-10 23:03:43   INFO [pages.LoginPage] : Home page is opened
+2024-27-10 23:03:48   INFO [pages.SignUpModal] : 'Madin' was inputted into 'Username:
+2024-27-10 23:03:50   INFO [pages.SignUpModal] : 'Admin' was inputted into 'Password:
+2024-27-10 23:03:50   INFO [pages.SignUpModal] : 'Sign up was clicked'
+2024-27-10 23:03:51   INFO [signUpTest.SignUpTest] : Browser was closed
+2024-28-10 07:11:56   INFO [loginTest.LoginTest] : Browser was opened
+2024-28-10 07:11:59   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 07:12:08  ERROR [pages.LogInModal] : Can not work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=130.0.6723.70)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [810d8cc76ae7a962b12730958f1c4d21, clearElement {id=f.78F8C70C7748B86C20BEC9AAD8A5CA9B.d.C0F2F7CF5AD01E83301BC9D61663A46E.e.22}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52946}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:52946/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (810d8cc76ae7a962b12730958f1c4d21)] -> xpath: //input[@id="sign-password"]]
+Session ID: 810d8cc76ae7a962b12730958f1c4d21
+2024-28-10 07:12:09   INFO [loginTest.LoginTest] : Browser was closed
+2024-28-10 08:03:00   INFO [loginTest.LoginTest] : Browser was opened
+2024-28-10 08:03:03   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 08:03:09   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 08:03:15  ERROR [pages.LogInModal] : Can not work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=130.0.6723.70)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2f291a1c0c2ccdea321f71f981b75951, clearElement {id=f.3F255AA97802CE135A42D4492886533F.d.FA361091EE6FA39CEE394246B2AD5C3C.e.22}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54372}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54372/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (2f291a1c0c2ccdea321f71f981b75951)] -> xpath: //input[@id="sign-password"]]
+Session ID: 2f291a1c0c2ccdea321f71f981b75951
+2024-28-10 08:03:16   INFO [loginTest.LoginTest] : Browser was closed
+2024-28-10 08:33:24   INFO [loginTest.LoginTest] : Browser was opened
+2024-28-10 08:33:27   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 08:33:32   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 08:33:39  ERROR [pages.LogInModal] : Can not work with elementorg.openqa.selenium.ElementNotInteractableException: element not interactable
+  (Session info: chrome=130.0.6723.70)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e3bd9439667c9fbf0a5979a1327a0a52, clearElement {id=f.BE5AF3846EC30D0C6A00D7D1D3436D46.d.6932FE2DAC37A1DE30F9B09DA4BB868C.e.22}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61888}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61888/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (e3bd9439667c9fbf0a5979a1327a0a52)] -> xpath: //input[@id="sign-password"]]
+Session ID: e3bd9439667c9fbf0a5979a1327a0a52
+2024-28-10 08:33:39   INFO [loginTest.LoginTest] : Browser was closed
+2024-28-10 08:50:11   INFO [loginTest.LoginTest] : Browser was opened
+2024-28-10 08:50:15   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 08:50:21   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 08:50:27   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 08:50:28   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 08:50:28  ERROR [pages.LogInModal] : Can not work with elementorg.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Please fill out Username and Password.}
+  (Session info: chrome=130.0.6723.70): Please fill out Username and Password.
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e34253f59c51fbcbf671a797b314c6b, findElement {value=//button[@onclick="logIn()"], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49951}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49951/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e34253f59c51fbcbf671a797b314c6b
+2024-28-10 08:50:29   INFO [loginTest.LoginTest] : Browser was closed
+2024-28-10 08:53:28   INFO [loginTest.LoginTest] : Browser was opened
+2024-28-10 08:53:31   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 08:53:38   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 08:53:41   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 08:53:43   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 08:53:44  ERROR [pages.LogInModal] : Can not work with elementorg.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Please fill out Username and Password.}
+  (Session info: chrome=130.0.6723.70): Please fill out Username and Password.
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8cd1b9e5b1eb372992ea0b141872e13e, findElement {value=//button[@onclick="logIn()"], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50914}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50914/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8cd1b9e5b1eb372992ea0b141872e13e
+2024-28-10 08:53:45   INFO [loginTest.LoginTest] : Browser was closed
+2024-28-10 08:54:50   INFO [loginTest.LoginTest] : Browser was opened
+2024-28-10 08:54:53   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 08:55:00   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 08:55:02   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 08:55:03   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 08:55:03   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 08:55:04   INFO [loginTest.LoginTest] : Browser was closed
+2024-28-10 09:06:37   INFO [loginTest.LoginTest] : Browser was opened
+2024-28-10 09:06:41   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 09:06:46   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 09:06:48   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 09:06:50   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 09:06:57   INFO [pages.LogInModal] : ' was clicked'
+2024-28-10 09:06:58   INFO [loginTest.LoginTest] : Browser was closed
+2024-28-10 15:27:32   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 15:27:35   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 15:27:41   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 15:27:49   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 15:27:50   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 15:27:50   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 15:27:53  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9e3e3f28fd6a9ff7b45c61848f8faf9f, clickElement {id=f.7C81ED78AF81D227CFD06043B22440C2.d.95CEB399D2AAA3225E7280B13C6601EF.e.521}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58824}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58824/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (9e3e3f28fd6a9ff7b45c61848f8faf9f)] -> xpath: //a[@class="hrefch"]]
+Session ID: 9e3e3f28fd6a9ff7b45c61848f8faf9f
+2024-28-10 15:27:59   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-28-10 15:54:04   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 15:54:07   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 15:54:11   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 15:54:14   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 15:54:15   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 15:54:17   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 15:54:28  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[@class="hrefch"]"}
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3ccca0844aaa0461804e490d9ac77542, findElement {value=//a[@class="hrefch"], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49226}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49226/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3ccca0844aaa0461804e490d9ac77542
+2024-28-10 15:54:29   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-28-10 15:54:30  ERROR [pages.elements.SideBarElements] : Can not work with elementorg.openqa.selenium.WebDriverException: unknown error: unhandled inspector error: {"code":-32000,"message":"Not attached to an active page"}
+  (Session info: chrome=130.0.6723.70)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3ccca0844aaa0461804e490d9ac77542, findElement {value=//a[@id="cartur"], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:49226}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:49226/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3ccca0844aaa0461804e490d9ac77542
+2024-28-10 15:54:30   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-28-10 16:09:53   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 16:09:58   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 16:10:03   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 16:10:06   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 16:10:07   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 16:10:07   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 16:10:10  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9e31f1b945e96aad2ebf37efa752b10e, clickElement {id=f.C6BE2C80E537F3FB9277C71A85207EB1.d.22D29C4328FCD3287052F208E6005184.e.520}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53205}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:53205/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (9e31f1b945e96aad2ebf37efa752b10e)] -> xpath: //a[@class="hrefch"]]
+Session ID: 9e31f1b945e96aad2ebf37efa752b10e
+2024-28-10 16:10:19   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-28-10 16:18:28   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 16:18:32   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 16:18:37   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 16:18:40   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 16:18:41   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 16:18:46   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 16:18:57  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tbodyid"]/div[1]/div/div/h4/a"}
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bc32797f87ca92807663a28e66eff99c, findElement {using=xpath, value=//*[@id="tbodyid"]/div[1]/div/div/h4/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55379}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55379/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: bc32797f87ca92807663a28e66eff99c
+2024-28-10 16:18:58   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-28-10 16:18:59   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-28-10 18:29:05   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 18:29:07   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 18:29:10   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 18:29:13   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 18:29:14   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 18:29:14   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 18:29:17  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4977e801f826b180e41108d654683023, clickElement {id=f.EE5DDBD2F9854F470123F3D561BD2674.d.714B3F7A8F541B268BD24E75A2D0BF46.e.513}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50720}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50720/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (4977e801f826b180e41108d654683023)] -> xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a]
+Session ID: 4977e801f826b180e41108d654683023
+2024-28-10 18:29:23   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-28-10 18:32:06   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 18:32:08   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 18:32:13   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 18:32:16   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 18:32:16   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 18:32:17   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 18:32:19  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d97f6a60754c5eda4dda57b355a11110, clickElement {id=f.31347306C46A1584A011AA4DB8D759C4.d.B362B7FC816FAE8D10B5D6AB71C8C2BC.e.519}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51521}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51521/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (d97f6a60754c5eda4dda57b355a11110)] -> xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a]
+Session ID: d97f6a60754c5eda4dda57b355a11110
+2024-28-10 18:32:25   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-28-10 18:52:46   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 18:52:51  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tbodyid"]/div[1]/div/div/h4/a"}
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [e72068ab0edf2fa9a5d6143f109c3d86, findElement {using=xpath, value=//*[@id="tbodyid"]/div[1]/div/div/h4/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57158}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57158/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: e72068ab0edf2fa9a5d6143f109c3d86
+2024-28-10 18:52:56   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-28-10 18:53:33   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 18:53:36   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 18:53:46  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tbodyid"]/div[1]/div/div/h4/a"}
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9d507ca2883e96c8b8db026448d17580, findElement {value=//*[@id="tbodyid"]/div[1]/div/div/h4/a, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57397}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57397/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 9d507ca2883e96c8b8db026448d17580
+2024-28-10 18:53:47   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-28-10 18:53:48   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-28-10 20:18:39   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 20:18:43   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 20:18:51  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tbodyid"]/div[1]/div/div/h4/a"}
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dfd771ff84f1f43179dc45b83cb76693, findElement {value=//*[@id="tbodyid"]/div[1]/div/div/h4/a, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63480}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63480/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dfd771ff84f1f43179dc45b83cb76693
+2024-28-10 20:18:53   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-28-10 20:18:54  ERROR [pages.elements.SideBarElements] : Can not work with elementorg.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Product added}
+  (Session info: chrome=130.0.6723.70): Product added
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [dfd771ff84f1f43179dc45b83cb76693, findElement {value=//a[@id="cartur"], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63480}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63480/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: dfd771ff84f1f43179dc45b83cb76693
+2024-28-10 20:18:54   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-28-10 22:12:43   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 22:12:46   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 22:12:54  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tbodyid"]/div[1]/div/div/h4/a"}
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a97caccab1dc44174a95d52806fbfd18, findElement {value=//*[@id="tbodyid"]/div[1]/div/div/h4/a, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60199}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60199/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a97caccab1dc44174a95d52806fbfd18
+2024-28-10 22:14:16   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 22:14:18   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 22:14:22   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 22:14:27   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 22:14:27   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 22:14:27   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 22:14:29  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b728147b98d0f138924aab3a54de1885, clickElement {id=f.B40D699AD26E18F7D52D6D01DF26366C.d.82D889B8C2F25D3DA63DD50AB279F47D.e.519}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60627}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60627/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (b728147b98d0f138924aab3a54de1885)] -> xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a]
+Session ID: b728147b98d0f138924aab3a54de1885
+2024-28-10 22:15:47   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 22:15:50   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 22:15:54   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 22:16:01   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 22:16:01   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 22:16:02   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 22:16:05  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2c0d4e165172b085f2fb7d647cfda3cc, clickElement {id=f.B41E63D6734AF6F7CC218804F3A7CEB1.d.3801B39B690AB16864A8AF9E04AA6489.e.519}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61030}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61030/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (2c0d4e165172b085f2fb7d647cfda3cc)] -> xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a]
+Session ID: 2c0d4e165172b085f2fb7d647cfda3cc
+2024-28-10 22:24:53   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 22:24:56   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 22:25:00   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 22:25:05   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 22:25:06   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 22:25:06   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 22:25:08  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [918ad930abfc05a9f6c4040bdd1ff26f, clickElement {id=f.7403EB40E938F6B89CD9CB48AA5F0A47.d.2D630296146EE84B8B8125659AE501D4.e.519}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63475}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63475/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (918ad930abfc05a9f6c4040bdd1ff26f)] -> xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a]
+Session ID: 918ad930abfc05a9f6c4040bdd1ff26f
+2024-28-10 22:27:19   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 22:27:21   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 22:27:26   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 22:27:27   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 22:27:28   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 22:27:28   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 22:29:33   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 22:29:36   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 22:29:41   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 22:29:44   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 22:29:46   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 22:29:47   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 22:57:34   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 22:57:37   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 22:57:40   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 22:57:42   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 22:57:42   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 22:57:43   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 22:57:53  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tbodyid"]/div[1]/div/div/h4/a"}
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [312b3c4e36e039bda0e955a8d33a0ec1, findElement {value=//*[@id="tbodyid"]/div[1]/div/div/h4/a, using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55867}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55867/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 312b3c4e36e039bda0e955a8d33a0ec1
+2024-28-10 23:03:54   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 23:03:57   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 23:04:00   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 23:04:05   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 23:04:06   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 23:04:06   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 23:04:08  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [aaeb23ee6b374c2f408dabbeddc52641, clickElement {id=f.563A8C89F159EC8F11987ED05F41B57C.d.51BDC0D0D89692447696ED4381E81617.e.519}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57492}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57492/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (aaeb23ee6b374c2f408dabbeddc52641)] -> xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a]
+Session ID: aaeb23ee6b374c2f408dabbeddc52641
+2024-28-10 23:13:55   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 23:13:58   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 23:14:01   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 23:14:03   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 23:14:04   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 23:14:07   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 23:27:48   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 23:27:51   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 23:27:54   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 23:27:57   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 23:27:57   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 23:27:58   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 23:28:08  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tbodyid"]/div[1]/div/div/h4/a"}
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c5d009d34380f76ebcf0d82cce978ca4, findElement {using=xpath, value=//*[@id="tbodyid"]/div[1]/div/div/h4/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.69 (3ec172b971b9..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63832}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63832/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: c5d009d34380f76ebcf0d82cce978ca4
+2024-28-10 23:37:45   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 23:37:48   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 23:37:51   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 23:37:52   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 23:37:53   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 23:37:54   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 23:40:42   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 23:40:44   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 23:40:48   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 23:40:53   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 23:40:54   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 23:40:54   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-28-10 23:41:43   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-28-10 23:41:46   INFO [pages.LoginPage] : Home page is opened
+2024-28-10 23:41:52   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-28-10 23:41:55   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-28-10 23:41:57   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-28-10 23:41:57   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 14:51:46   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 14:51:50   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 14:51:53   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 14:51:56   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 14:51:58   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 14:51:59   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 15:00:37   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 15:00:41   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 15:00:47   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 15:00:51   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 15:00:54   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 15:00:55   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 15:00:58  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fbad8da5196f79d610c81cdb19922dbf, clickElement {id=f.3BD89B1027FE4E9BCF49B623A782B7CE.d.4335EDA938820E99D6BC2AEA0506E633.e.520}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55855}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:55855/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (fbad8da5196f79d610c81cdb19922dbf)] -> xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a]
+Session ID: fbad8da5196f79d610c81cdb19922dbf
+2024-30-10 15:19:08   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 15:19:12   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 15:19:16   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 15:19:20   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 15:19:21   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 15:19:22   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 15:19:26  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8706392db2bdc1f38888ff0e38e0cd30, clickElement {id=f.DC91D77B175EDAB4B97737AA24432260.d.C1F2CD0329138903859223835CC46279.e.519}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60633}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60633/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (8706392db2bdc1f38888ff0e38e0cd30)] -> xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a]
+Session ID: 8706392db2bdc1f38888ff0e38e0cd30
+2024-30-10 15:20:51   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 15:20:55   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 15:21:00   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 15:21:04   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 15:21:09   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 15:21:10   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 15:21:13  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a9fc24d6b1a0183925cbf04a596fc7bd, clickElement {id=f.CDBE0E0A5263A6C19CE9E38518CF2D98.d.B79B8938C1377EEF216627F4B2C270D9.e.520}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61074}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61074/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (a9fc24d6b1a0183925cbf04a596fc7bd)] -> xpath: //*[@id="tbodyid"]/div[1]/div/div/h4/a]
+Session ID: a9fc24d6b1a0183925cbf04a596fc7bd
+2024-30-10 15:32:06   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 15:32:10   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 15:32:22  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id="tbodyid"]/div[1]/div/div/h4/a"}
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [601e1f1a5a835c1e62a8f4f508a0dbb3, findElement {using=xpath, value=//*[@id="tbodyid"]/div[1]/div/div/h4/a}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63930}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63930/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 601e1f1a5a835c1e62a8f4f508a0dbb3
+2024-30-10 15:53:04   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 15:53:07   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 15:53:14   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 15:53:19   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 15:53:20   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 15:53:20   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 15:55:11   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 15:55:14   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 15:55:21   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 15:55:23   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 15:55:23   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 15:55:24   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 15:57:00   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 15:57:04   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 15:57:11   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 15:57:14   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 15:57:15   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 15:57:15   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 17:45:32   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 17:45:35   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 17:45:39   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 17:45:43   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 17:45:44   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 17:45:44   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 17:45:45   INFO [pages.elements.SideBarElements] : Welcome link is displayed
+2024-30-10 17:53:20   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 17:53:23   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 17:53:27   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 17:53:31   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 17:53:32   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 17:53:32   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 17:53:32   INFO [pages.elements.SideBarElements] : Welcome link is displayed
+2024-30-10 18:18:19   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 18:18:21   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 18:18:24   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 18:18:26   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 18:18:26   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 18:18:29   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 18:18:29   INFO [pages.elements.SideBarElements] : Element is Not displayed
+2024-30-10 18:20:20   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 18:20:23   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 18:20:26   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 18:20:29   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 18:20:29   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 18:20:30   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 18:20:30   INFO [pages.elements.SideBarElements] : Element is Not displayed
+2024-30-10 18:22:10   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 18:22:13   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 18:22:17   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 18:22:22   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 18:22:22   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 18:22:23   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 18:22:23   INFO [pages.elements.SideBarElements] : Element is Not displayed
+2024-30-10 18:30:06   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 18:30:08   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 18:30:11   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 18:30:14   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 18:30:15   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 18:30:15   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 18:30:15   INFO [pages.elements.SideBarElements] : Element is Not displayed
+2024-30-10 18:41:54   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 18:41:56   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 18:42:00   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 18:42:04   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 18:42:05   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 18:42:05   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 18:42:05   INFO [pages.elements.SideBarElements] : Element is Not displayed
+2024-30-10 18:50:41   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 18:50:43   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 18:50:47   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 18:50:52   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 18:50:53   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 18:50:54   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 18:50:54   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-30-10 18:57:19   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 18:57:21   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 18:57:23   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 18:57:26   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 18:57:27   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 18:57:27   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 18:57:28   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-30-10 19:04:56   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 19:04:59   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 19:05:02   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 19:05:06   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 19:05:06   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 19:05:07   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 19:05:07   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-30-10 19:06:04   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 19:06:06   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 19:06:10   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 19:06:12   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 19:06:12   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 19:06:12   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 19:06:13   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-30-10 19:10:36   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 19:10:39   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 19:10:41   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 19:10:45   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 19:10:46   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 19:10:46   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 19:10:46   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-30-10 19:10:50   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-30-10 19:17:24   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 19:17:27   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 19:17:30   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 19:17:33   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 19:17:33   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 19:17:34   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 19:17:34   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-30-10 19:17:37  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [81e694f8e283e395d2835204db12b050, clickElement {id=f.EB0B3478CCEACFDB7170B9FC3C9788BE.d.878A24050FB8A53E66AE075ADCC656CF.e.510}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57812}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:57812/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (81e694f8e283e395d2835204db12b050)] -> xpath: //a[@class="hrefch"]]
+Session ID: 81e694f8e283e395d2835204db12b050
+2024-30-10 19:18:27   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 19:18:30   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 19:18:35   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 19:18:39   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 19:18:39   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 19:18:40   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 19:18:40   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-30-10 19:18:43  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [4daccb69bfadcbaef3760b86a38a1250, clickElement {id=f.F80D878F4BE6490894491A267597B89A.d.9AC8440A054C9D99A83E44557C071D78.e.510}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58380}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58380/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (4daccb69bfadcbaef3760b86a38a1250)] -> xpath: //a[@class="hrefch"]]
+Session ID: 4daccb69bfadcbaef3760b86a38a1250
+2024-30-10 19:25:05   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 19:25:07   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 19:25:10   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 19:25:15   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 19:25:15   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 19:25:16   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 19:25:16   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-30-10 19:25:18  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ace11a44c7894d2d0bf95752491486c, clickElement {id=f.BCE0FF2BE74F812F69DB0D09C80CDEDF.d.77957B0734CDA1E1621984D0E1A7A995.e.508}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61688}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61688/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (2ace11a44c7894d2d0bf95752491486c)] -> xpath: //a[@class="hrefch"]]
+Session ID: 2ace11a44c7894d2d0bf95752491486c
+2024-30-10 19:25:19   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-30-10 20:25:29   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 20:25:32   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 20:25:35   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-30-10 20:25:39   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-30-10 20:25:39   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-30-10 20:25:40   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-30-10 20:25:40   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-30-10 20:25:43  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=130.0.6723.70)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d939e67470726556f8642c0faf5e403, getElementAccessibleName {id=f.738E280BC781DFED045243CFE05BF709.d.99619674A03D88E364C6508D793D1562.e.503}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61340}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61340/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (1d939e67470726556f8642c0faf5e403)] -> xpath: //a[@class="hrefch"]]
+Session ID: 1d939e67470726556f8642c0faf5e403
+2024-30-10 20:25:43   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-30-10 23:46:28   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 23:46:31   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 23:46:34   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-30-10 23:46:34   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-30-10 23:47:10   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 23:47:12   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 23:47:15   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-30-10 23:47:16   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-30-10 23:50:06   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 23:50:09   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 23:50:15   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-30-10 23:50:19   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-30-10 23:50:20   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-30-10 23:53:46   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 23:53:48   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 23:53:51   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-30-10 23:53:54   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-30-10 23:53:54   INFO [pages.elements.SideBarElements] : 'Cart was clicked'
+2024-30-10 23:53:54   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-30-10 23:58:36   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 23:58:38   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 23:58:42   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-30-10 23:58:44   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-30-10 23:58:45   INFO [pages.elements.SideBarElements] : 'Cart was clicked'
+2024-30-10 23:58:45   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-30-10 23:59:23   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-30-10 23:59:25   INFO [pages.LoginPage] : Home page is opened
+2024-30-10 23:59:32   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-30-10 23:59:36   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-30-10 23:59:36  ERROR [pages.elements.SideBarElements] : Can not work with elementorg.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Product added}
+  (Session info: chrome=130.0.6723.70): Product added
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [10e556120aba163cc684074bf81c35a4, findElement {value=//a[@id="cartur"], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50646}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50646/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 10e556120aba163cc684074bf81c35a4
+2024-30-10 23:59:37   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 00:00:26   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 00:00:28   INFO [pages.LoginPage] : Home page is opened
+2024-31-10 00:00:36   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-31-10 00:00:39   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-31-10 00:00:40   INFO [pages.elements.SideBarElements] : 'Cart was clicked'
+2024-31-10 00:00:40   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 00:01:27   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 00:01:29   INFO [pages.LoginPage] : Home page is opened
+2024-31-10 00:01:34   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-31-10 00:01:38   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-31-10 00:01:38  ERROR [pages.elements.SideBarElements] : Can not work with elementorg.openqa.selenium.UnhandledAlertException: unexpected alert open: {Alert text : Product added}
+  (Session info: chrome=130.0.6723.70): Product added
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [db3d4121af21edf88d0a7c2fadac6ee3, findElement {using=xpath, value=//a[@id="cartur"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51210}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51210/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: db3d4121af21edf88d0a7c2fadac6ee3
+2024-31-10 00:01:39   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 00:06:39   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 00:06:41   INFO [pages.LoginPage] : Home page is opened
+2024-31-10 00:06:45   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-31-10 00:06:49   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-31-10 00:06:49   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 00:09:38   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 00:09:41   INFO [pages.LoginPage] : Home page is opened
+2024-31-10 00:09:45   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-31-10 00:09:49   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-31-10 00:09:49   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 00:17:10   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 00:17:13   INFO [pages.LoginPage] : Home page is opened
+2024-31-10 00:17:17   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-31-10 00:17:21   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-31-10 00:17:21   INFO [pages.ItemDetailsPage] : Product added
+2024-31-10 00:17:24   INFO [pages.elements.SideBarElements] : 'Cart was clicked'
+2024-31-10 00:17:24   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 00:18:26   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 00:18:29   INFO [pages.LoginPage] : Home page is opened
+2024-31-10 00:18:33   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-31-10 00:18:37   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-31-10 00:18:37   INFO [pages.ItemDetailsPage] : Alert text: Product added
+2024-31-10 00:18:39   INFO [pages.elements.SideBarElements] : 'Cart was clicked'
+2024-31-10 00:18:39   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 00:23:27   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 00:23:29   INFO [pages.LoginPage] : Home page is opened
+2024-31-10 00:23:33   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-31-10 00:23:35   INFO [pages.ItemDetailsPage] : Samsung galaxy s6
+2024-31-10 00:23:37   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-31-10 00:23:38   INFO [pages.ItemDetailsPage] : Alert text: Product added
+2024-31-10 00:23:40   INFO [pages.elements.SideBarElements] : 'Cart was clicked'
+2024-31-10 00:23:40   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 00:26:19   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 00:26:21   INFO [pages.LoginPage] : Home page is opened
+2024-31-10 00:26:26   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-31-10 00:26:30   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-31-10 00:26:31   INFO [pages.ItemDetailsPage] : Alert text: Product added
+2024-31-10 00:26:32   INFO [pages.elements.SideBarElements] : 'Cart was clicked'
+2024-31-10 00:26:33   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 00:33:06   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 00:33:08  ERROR [pages.LoginPage] : Can not work with elementorg.openqa.selenium.WebDriverException: unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=130.0.6723.70)
+Build info: version: '4.25.0', revision: '8a8aea2337'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.3.1', java.version: '15.0.2'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1e3f924eb86d72db30d530d30e5a8230, get {url=https://www.demoblaze.com}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 130.0.6723.70, chrome: {chromedriverVersion: 130.0.6723.91 (53ac07678369..., userDataDir: /var/folders/fp/xw2w93cd2tq...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61988}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61988/devtoo..., se:cdpVersion: 130.0.6723.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1e3f924eb86d72db30d530d30e5a8230
+2024-31-10 00:33:08   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 00:33:58   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 00:34:00   INFO [pages.LoginPage] : Home page is opened
+2024-31-10 00:34:04   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-31-10 00:34:07   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-31-10 00:34:08   INFO [pages.ItemDetailsPage] : Alert text: Product added
+2024-31-10 00:34:10   INFO [pages.elements.SideBarElements] : 'Cart was clicked'
+2024-31-10 00:34:10   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 00:47:16   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 00:47:18   INFO [pages.LoginPage] : Home page is opened
+2024-31-10 00:47:22   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-31-10 00:47:24   INFO [pages.ItemDetailsPage] : Samsung galaxy s6
+2024-31-10 00:47:25   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-31-10 00:47:26   INFO [pages.ItemDetailsPage] : Alert text: Product added
+2024-31-10 00:47:29   INFO [pages.elements.SideBarElements] : 'Cart was clicked'
+2024-31-10 00:47:31   INFO [pages.CartPage] : Samsung galaxy s6
+2024-31-10 00:47:31   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-31-10 17:13:51   INFO [shoppingCartTests.AddItemToCart] : Browser was opened
+2024-31-10 17:13:54   INFO [pages.LoginPage] : Home page is opened
+2024-31-10 17:14:01   INFO [pages.LoginPage] : 'Samsung galaxy s6 was clicked'
+2024-31-10 17:14:03   INFO [pages.ItemDetailsPage] : Samsung galaxy s6
+2024-31-10 17:14:04   INFO [pages.ItemDetailsPage] : 'Add to cart was clicked'
+2024-31-10 17:14:05   INFO [pages.ItemDetailsPage] : Alert text: Product added
+2024-31-10 17:14:07   INFO [pages.elements.SideBarElements] : 'Cart was clicked'
+2024-31-10 17:14:07   INFO [shoppingCartTests.AddItemToCart] : Browser was closed
+2024-01-11 12:18:52   INFO [loginTest.LoginTest] : Browser was opened
+2024-01-11 12:18:55   INFO [pages.LoginPage] : Home page is opened
+2024-01-11 12:18:58   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-01-11 12:19:03   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-01-11 12:19:03   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-01-11 12:19:04   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-01-11 12:19:04   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-01-11 12:19:05   INFO [loginTest.LoginTest] : Browser was closed
+2024-01-11 12:48:13   INFO [loginTest.LoginTest] : Browser was opened
+2024-01-11 12:48:15   INFO [pages.LoginPage] : Home page is opened
+2024-01-11 12:48:21   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-01-11 12:48:24   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-01-11 12:48:25   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-01-11 12:48:25   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-01-11 12:48:25   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-01-11 12:48:25   INFO [loginTest.LoginTest] : Browser was closed
+2024-01-11 14:15:59   INFO [loginTest.LoginTest] : Browser was opened
+2024-01-11 14:16:02   INFO [pages.LoginPage] : Home page is opened
+2024-01-11 14:16:06   INFO [pages.elements.SideBarElements] : 'Log in was clicked'
+2024-01-11 14:16:08   INFO [pages.LogInModal] : 'Madin' was inputted into '
+2024-01-11 14:16:10   INFO [pages.LogInModal] : 'Admin' was inputted into '
+2024-01-11 14:16:13   INFO [pages.LogInModal] : 'Log in was clicked'
+2024-01-11 14:16:14   INFO [pages.elements.SideBarElements] : Element is displayed
+2024-01-11 14:16:14   INFO [loginTest.LoginTest] : Browser was closed
+2024-01-11 14:52:42   INFO [loginTest.LoginTest] : Browser was opened
+2024-01-11 14:52:46   INFO [pages.LoginPage] : Home page is opened
+2024-01-11 14:52:46   INFO [loginTest.LoginTest] : Browser was closed
