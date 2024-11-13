@@ -2214,3 +2214,41 @@ Session ID: f75780b3dad832d46c875eed3669b4c0
 2024-04-11 20:33:33   INFO [pages.ViewSystemUsersPage] : 'Search' was clicked
 2024-04-11 20:33:33   INFO [searchTests.SearchForSystemUserTest] : Finished test: searchTests.SearchForSystemUserTest::searchForSystemUser
 2024-04-11 20:33:33   INFO [searchTests.SearchForSystemUserTest] : Browser was closed
+2024-08-11 14:16:29   INFO [addUserTests.AddNewUserTest] : -----------addNewUser was started----------
+2024-08-11 14:17:50   INFO [addUserTests.AddNewUserTest] : Browser was opened
+2024-08-11 14:17:59   INFO [pages.LoginPage] : Login page was opened
+2024-08-11 14:17:59   INFO [pages.LoginPage] : https://opensource-demo.orangehrmlive.com/web/index.php
+2024-08-11 14:18:08   INFO [pages.LoginPage] : 'Admin' was inputted into 'Username' field
+2024-08-11 14:18:09   INFO [pages.LoginPage] : 'admin123' was inputted into 'Password' field
+2024-08-11 14:18:10   INFO [pages.LoginPage] : 'Login' was clicked
+2024-08-11 14:18:27   INFO [pages.elements.SideBarElements] : '' was clicked
+2024-08-11 14:18:32   INFO [pages.ViewSystemUsersPage] : ' Add' was clicked
+2024-08-11 14:18:34   INFO [pages.SaveSystemUserPage] : Element is displayed
+2024-08-11 14:18:37   INFO [pages.SaveSystemUserPage] : 'Jobin Mathew Sam' was selected from suggestions
+2024-08-11 14:18:38   INFO [pages.SaveSystemUserPage] : 'User2024-11-08_14-16-29' was inputted into '' field
+2024-08-11 14:18:38   INFO [pages.SaveSystemUserPage] : 'StrongPass2024!' was inputted into '' field
+2024-08-11 14:18:39   INFO [pages.SaveSystemUserPage] : 'StrongPass2024!' was inputted into '' field
+2024-08-11 14:18:39   INFO [pages.SaveSystemUserPage] : 'Save' was clicked
+2024-08-11 14:18:46   INFO [pages.ViewSystemUsersPage] : Element is displayed
+2024-08-11 14:18:47   INFO [pages.ViewSystemUsersPage] : 'User2024-11-08_14-16-29' was inputted into '' field
+2024-08-11 14:18:47   INFO [pages.ViewSystemUsersPage] : 'Search' was clicked
+2024-08-11 14:18:47   INFO [addUserTests.AddNewUserTest] : Finished test: addUserTests.AddNewUserTest::addNewUser
+2024-08-11 14:18:48   INFO [addUserTests.AddNewUserTest] : Browser was closed
+2024-11-11 01:28:20   INFO [apiTestsStore.ApiTests] : Number of products: 20
+2024-11-11 01:28:20   INFO [apiTestsStore.ApiTests] : Name of product 1 Starbucks Coffee Variety Pack, 100% Arabica
+2024-11-11 01:55:17   INFO [apiTestsStore.ApiTests] : Number of products: 20
+2024-11-11 01:55:17   INFO [apiTestsStore.ApiTests] : Name of product 1: Starbucks Coffee Variety Pack, 100% Arabica
+2024-11-11 01:57:43   INFO [apiTestsStore.ApiTests] : Number of products: 20
+2024-11-11 01:57:43   INFO [apiTestsStore.ApiTests] : Name of product 1: Starbucks Coffee Variety Pack, 100% Arabica
+2024-11-11 02:01:28   INFO [apiTestsStore.ApiTests] : Number of products: 3
+2024-11-11 02:01:28   INFO [apiTestsStore.ApiTests] : Name of product 1: Starbucks Coffee Variety Pack, 100% Arabica
+2024-11-11 02:01:53   INFO [apiTestsStore.ApiTests] : Number of products: 3
+2024-11-11 02:01:53   INFO [apiTestsStore.ApiTests] : Name of product 1: Starbucks Coffee Variety Pack, 100% Arabica
+2024-11-11 02:02:37   INFO [apiTestsStore.ApiTests] : Number of products: 3
+2024-11-11 02:02:37   INFO [apiTestsStore.ApiTests] : Name of product 1: Starbucks Coffee Variety Pack, 100% Arabica
+2024-11-11 02:03:05   INFO [apiTestsStore.ApiTests] : Number of products: 3
+2024-11-11 02:03:05   INFO [apiTestsStore.ApiTests] : Name of product 1: Starbucks Coffee Variety Pack, 100% Arabica
+2024-11-11 02:19:45   INFO [apiTestsStore.ApiTests] : Number of products: 3
+2024-11-11 02:19:45   INFO [apiTestsStore.ApiTests] : Name of product 1: Starbucks Coffee Variety Pack, 100% Arabica
+2024-11-11 14:30:41   INFO [apiTestsStore.ApiTests] : Number of products: 3
+2024-11-11 14:30:41   INFO [apiTestsStore.ApiTests] : Name of product 1: Starbucks Coffee Variety Pack, 100% Arabica
